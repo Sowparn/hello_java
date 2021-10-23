@@ -28,7 +28,3 @@ jobs:
       - name: compile javacode
         run: javac 
 Helloworld.java 
-
-      - name: run javacode
-        run: java
-Helloworld.java
