@@ -1,5 +1,5 @@
 public class HelloWorld {
   public static void main(String[] args) {
-    System.out.println("Hello, baby --goodmorning.   docker V..")
+    System.out.println("Hello, baby --goodmorning.   docker ..")
   }
 }
